@@ -1,4 +1,11 @@
-jupyter>=1.0.0
-notebook>=7.0.0
-pandas>=2.0.0
-numpy>=1.24.0 
+langchain-openai
+langchain-core
+langchain-community
+langgraph
+pydantic
+python-dotenv
+tavily-python
+markdown-pdf
+requests
+typing-extensions
+bing-image-downloader 
